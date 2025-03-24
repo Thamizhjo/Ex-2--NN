@@ -1,8 +1,10 @@
-<H3>Name</H3>
-<H3>Register no.</H3>
-<H3>Date</H3>
+<H3>Name Thamizh kumaran S</H3>
+<H3>Register no. 21223240166</H3>
+<H3>Date 24-03-2025</H3>
 <H3>Experiment No. 2 </H3>
+
 ## Implementation of Perceptron for Binary Classification
+
 # AIM:
 To implement a perceptron for classification using Python<BR>
 
@@ -121,8 +123,11 @@ plt.show()
 ```
 
 # OUTPUT:
+![Screenshot 2025-03-24 144452](https://github.com/user-attachments/assets/2a1a3c18-dcaa-484d-997c-fee3179edab3)
 
-    ''' Show your result '''
+ ![Screenshot 2025-03-24 144500](https://github.com/user-attachments/assets/43c1d01e-4c61-406a-b3a5-a25cb347e477)
+
+![Screenshot 2025-03-24 144507](https://github.com/user-attachments/assets/d400375a-5315-45a0-9b6a-c2ab3817ce88)
 
 # RESULT:
  Thus, a single layer perceptron model is implemented using python to classify Iris data set.
